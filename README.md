@@ -1,5 +1,18 @@
 # Election-Results&Financial-Records
 
+### Preview of code to loop through voting datasetto pull out pertinent information for election results
+![election_code](https://user-images.githubusercontent.com/101612220/191414521-00191015-b42c-45cf-b273-b3033577ceff.png)
+
+### Printed statement of Election Results
+![election print statement](https://user-images.githubusercontent.com/101612220/191414500-7c5a194c-7ddd-4365-9e30-b68aa554d044.png)
+
+
+### Preview of code to loop through financial dataset to pull out pertinent information for financial records
+![finance_code](https://user-images.githubusercontent.com/101612220/191414573-c0dffaf1-3ab8-4445-9a3d-475e1d07410e.png)
+
+### Printed statement of Financial Records
+![finance print statement](https://user-images.githubusercontent.com/101612220/191414553-531d0f00-414e-437c-ba8c-891f3b5a0792.png)
+
 
 
 ## Instructions
